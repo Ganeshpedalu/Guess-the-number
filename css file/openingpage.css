@@ -1,0 +1,23 @@
+body{
+    background-image: url("/images/games_guess_the_number.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: top;
+
+    background-color: rgb(244, 192, 124);
+}
+
+.playbutton{
+
+    width: 15rem;
+    border-radius: 10rem;
+    border: none;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 5rem;
+    margin-left: 40rem;
+    background-color: rgb(73, 155, 169);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-top: 5rem;
+    cursor: pointer;
+}
